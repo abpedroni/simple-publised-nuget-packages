@@ -1,7 +1,5 @@
 # simple-publised-nuget-packages
 
-# simple-webapi
-
 Scenario:
 - Simple library c# project;
 - Github actions
