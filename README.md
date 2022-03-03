@@ -1,4 +1,4 @@
-# simple-publised-nuget-packages
+# simple-published-nuget-packages
 
 Scenario:
 - Simple library c# project;
